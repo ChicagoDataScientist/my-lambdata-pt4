@@ -5,7 +5,7 @@
 
 
 ```sh
-pip install -i https://test.pypi.org/simple/ my-lambdata-pt4
+pip install -i https://test.pypi.org/simple/ peterson-lambdata-pt4
 
 # in future maybe:
 # pip install my-lambdata-pt4

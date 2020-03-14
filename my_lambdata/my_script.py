@@ -3,7 +3,7 @@
 
 import pandas
 
-from my_lambdata.my_mod import enlarge
+from my_mod import enlarge
 
 
 print("HAPPY TUESDAY NIGHT.")

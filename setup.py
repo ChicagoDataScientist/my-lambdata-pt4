@@ -6,15 +6,15 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="my-lambdata-pt4",
+    name="peterson-lambdata-pt4",
     version="1.0",
-    author="MJ Rossetti",
-    author_email="datacreativellc@gmail.com",
-    description="For example purposes",
+    author="AJ Peterson",
+    author_email="sonotony@gmail.com",
+    description="For practice purposes",
     long_description=long_description,
     long_description_content_type="text/markdown", # required if using a md file for long desc
     #license="MIT",
-    url="https://github.com/s2t2/my-lambdata-pt4",
+    url="https://github.com/ChicagoDataScientist/my-lambdata-pt4",
     #keywords="",
     packages=find_packages() # ["my_lambdata"]
 )
