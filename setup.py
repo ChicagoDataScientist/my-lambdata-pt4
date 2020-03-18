@@ -12,7 +12,7 @@ setup(
     author_email="sonotony@gmail.com",
     description="For practice purposes",
     long_description=long_description,
-    long_description_content_type="text/markdown", # required if using a md file for long desc
+    long_description_content_type="text/markdown", # required if using a md file for long desc yes
     #license="MIT",
     url="https://github.com/ChicagoDataScientist/my-lambdata-pt4",
     #keywords="",
