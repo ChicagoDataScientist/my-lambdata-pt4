@@ -12,9 +12,10 @@ setup(
     author_email="sonotony@gmail.com",
     description="For practice purposes",
     long_description=long_description,
-    long_description_content_type="text/markdown", # required if using a md file for long desc yes
-    #license="MIT",
+    # required if using a md file for long desc yes
+    long_description_content_type="text/markdown",
+    # license="MIT",
     url="https://github.com/ChicagoDataScientist/my-lambdata-pt4",
-    #keywords="",
-    packages=find_packages() # ["my_lambdata"]
+    # keywords="",
+    packages=find_packages()  # ["my_lambdata"]
 )

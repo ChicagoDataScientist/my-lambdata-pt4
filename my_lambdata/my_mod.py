@@ -1,6 +1,7 @@
 
 # my_lambdata/my_mod.py
 
+
 def enlarge(n):
     return n * 100
 
@@ -9,6 +10,7 @@ def enlarge(n):
 #
 # y = float(input("PLEASE INPUT A NUMBER TO ENLARGE: "))
 # print(enlarge(y))
+
 
 if __name__ == "__main__":
     # only if run from the command line, invoke the following code:
