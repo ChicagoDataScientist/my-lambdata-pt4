@@ -1,9 +1,10 @@
 # example teams.py (functional approach)
 
 class Team():
-    def __init__(self, name, city):
+    def __init__(self, name, city="CITY NAME", players=["Player 1"]):
         self.name = name
         self.city = city
+        self.players = players
 
     def advertise(self):
         print(f"HEY COME TO {self.city.upper()} TO SEE OUR GAMES!!!")
@@ -25,6 +26,7 @@ if __name__ == "__main__":
         # print(full_name(team))
         print(team.city)
         print(team.full_name())
+        print(team.players)
         team.advertise()
 
 
